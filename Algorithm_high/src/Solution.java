@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Solution {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static StringBuilder sb = new StringBuilder();
@@ -10,10 +10,6 @@ public class Main {
 
     }
 
-    /**
-     * SWEA: 7465. 창용 마을 무리의 개수
-     * @throws IOException
-     */
     private static void prob7465() throws IOException {
         int T = Integer.parseInt(br.readLine());
         for (int i = 1; i <= T; i++) {
