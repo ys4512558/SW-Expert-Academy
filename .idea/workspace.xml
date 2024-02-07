@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe68cda0-2d77-4fdd-a973-e03728a327a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Algorithm_high/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_high/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_high/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_high/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_high/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_high/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="fe68cda0-2d77-4fdd-a973-e03728a327a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +13,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2aaMVMN6NXweVceWo1slBdRAyX1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +28,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ys451/바탕 화면/SWEA/SW-Expert-Academy",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -47,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704552260910</updated>
       <workItem from="1704552262844" duration="27000" />
+      <workItem from="1707225554363" duration="37000" />
     </task>
     <servers />
   </component>
